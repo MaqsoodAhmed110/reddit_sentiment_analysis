@@ -1,0 +1,23 @@
+2025-10-19 02:34:40,865 - INFO - ====== WebDriver manager ======
+2025-10-19 02:34:44,062 - INFO - Get LATEST chromedriver version for google-chrome
+2025-10-19 02:34:44,937 - INFO - Get LATEST chromedriver version for google-chrome
+2025-10-19 02:34:46,867 - INFO - Driver [C:\Users\user\.wdm\drivers\chromedriver\win64\141.0.7390.78\chromedriver-win32/chromedriver.exe] found in cache
+2025-10-19 02:34:50,051 - INFO - Selenium WebDriver initialized for web scraping
+2025-10-19 02:34:50,052 - INFO - Headless mode: True
+2025-10-19 02:34:50,052 - INFO - Starting to scrape r/machinelearning (limit=1000, sort=hot)
+2025-10-19 02:34:50,052 - INFO - Navigating to https://old.reddit.com/r/machinelearning/hot/
+2025-10-19 02:35:08,961 - INFO - Found 27 posts on page, extracting up to 1000...
+2025-10-19 02:35:09,044 - ERROR - Error in _extract_post_data: invalid literal for int() with base 10: ''
+2025-10-19 02:35:09,044 - ERROR - Error scraping post 6: invalid literal for int() with base 10: ''
+2025-10-19 02:35:09,048 - ERROR - Error in _extract_post_data: invalid literal for int() with base 10: ''
+2025-10-19 02:35:09,048 - ERROR - Error scraping post 12: invalid literal for int() with base 10: ''
+2025-10-19 02:35:09,049 - ERROR - Error in _extract_post_data: invalid literal for int() with base 10: ''
+2025-10-19 02:35:09,050 - ERROR - Error scraping post 14: invalid literal for int() with base 10: ''
+2025-10-19 02:35:09,050 - ERROR - Error in _extract_post_data: invalid literal for int() with base 10: ''
+2025-10-19 02:35:09,050 - ERROR - Error scraping post 15: invalid literal for int() with base 10: ''
+2025-10-19 02:35:09,056 - ERROR - Error in _extract_post_data: invalid literal for int() with base 10: ''
+2025-10-19 02:35:09,057 - ERROR - Error scraping post 24: invalid literal for int() with base 10: ''
+2025-10-19 02:35:09,093 - INFO - Successfully scraped 22 posts from r/machinelearning
+2025-10-19 02:35:09,117 - INFO - Data saved to data/raw/reddit_data.csv
+2025-10-19 02:35:09,135 - INFO - Scraping Statistics: {'total_posts': 22, 'unique_authors': 21, 'avg_upvotes': 136.04545454545453, 'avg_comments': 13.454545454545455, 'subreddits': ['machinelearning']}
+2025-10-19 02:35:11,414 - INFO - WebDriver closed

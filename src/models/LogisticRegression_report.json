@@ -1,0 +1,33 @@
+{
+    "Discussion": {
+        "precision": 0.6,
+        "recall": 1.0,
+        "f1-score": 0.75,
+        "support": 3.0
+    },
+    "Project": {
+        "precision": 0.0,
+        "recall": 0.0,
+        "f1-score": 0.0,
+        "support": 1.0
+    },
+    "Research": {
+        "precision": 0.0,
+        "recall": 0.0,
+        "f1-score": 0.0,
+        "support": 1.0
+    },
+    "accuracy": 0.6,
+    "macro avg": {
+        "precision": 0.19999999999999998,
+        "recall": 0.3333333333333333,
+        "f1-score": 0.25,
+        "support": 5.0
+    },
+    "weighted avg": {
+        "precision": 0.36,
+        "recall": 0.6,
+        "f1-score": 0.45,
+        "support": 5.0
+    }
+}

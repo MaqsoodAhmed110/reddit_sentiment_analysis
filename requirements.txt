@@ -1,0 +1,16 @@
+snscrape
+pandas
+numpy
+matplotlib
+scikit-learn
+textblob
+boto3
+sagemaker
+nltk
+playwright
+pandas
+jmespath
+selenium
+pandas
+umap-learn
+ipykernel
