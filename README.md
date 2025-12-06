@@ -557,15 +557,11 @@ Current baseline (test set):
 
 ---
 
-## 📝 License
 
-MIT License – See LICENSE file
 
 ## 👤 Author
 
-Your Name / Team
+Maqsood Ahmed
 
 ---
 
-**Last Updated:** 2025-01-15  
-**Status:** ✅ Active Development
